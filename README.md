@@ -1,2 +1,2 @@
-# C# Snake Game enhanced with Monogames.Framework.DesktopGL & SadConsole
-### enhanced with Monogames.Framework.DesktopGL & SadConsole
+# C# Snake Game 
+### Enhanced with Monogames.Framework.DesktopGL & SadConsole
