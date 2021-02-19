@@ -1,2 +1,2 @@
 # C# Snake Game 
-### Enhanced with Monogames.Framework.DesktopGL & SadConsole
+### Enhanced with Monogames.Framework.DesktopGL & SadConsole Nuget Packages
